@@ -1,0 +1,282 @@
+[
+  {
+    "time_stamp": "2022-12-28T21:00:00.000",
+    "temperature": 56.95,
+    "feels_like": 55.49,
+    "wind_speed": 5.59,
+    "humidity": 67
+  },
+  {
+    "time_stamp": "2022-12-29T00:00:00.000",
+    "temperature": 56.39,
+    "feels_like": 54.82,
+    "wind_speed": 6.42,
+    "humidity": 66
+  },
+  {
+    "time_stamp": "2022-12-29T03:00:00.000",
+    "temperature": 51.91,
+    "feels_like": 50.0,
+    "wind_speed": 5.99,
+    "humidity": 68
+  },
+  {
+    "time_stamp": "2022-12-29T06:00:00.000",
+    "temperature": 50.36,
+    "feels_like": 48.25,
+    "wind_speed": 3.67,
+    "humidity": 67
+  },
+  {
+    "time_stamp": "2022-12-29T09:00:00.000",
+    "temperature": 50.59,
+    "feels_like": 48.27,
+    "wind_speed": 2.19,
+    "humidity": 62
+  },
+  {
+    "time_stamp": "2022-12-29T12:00:00.000",
+    "temperature": 51.19,
+    "feels_like": 48.97,
+    "wind_speed": 3.91,
+    "humidity": 63
+  },
+  {
+    "time_stamp": "2022-12-29T15:00:00.000",
+    "temperature": 51.4,
+    "feels_like": 49.39,
+    "wind_speed": 5.55,
+    "humidity": 67
+  },
+  {
+    "time_stamp": "2022-12-29T18:00:00.000",
+    "temperature": 52.32,
+    "feels_like": 50.68,
+    "wind_speed": 4.7,
+    "humidity": 73
+  },
+  {
+    "time_stamp": "2022-12-29T21:00:00.000",
+    "temperature": 52.95,
+    "feels_like": 51.42,
+    "wind_speed": 3.89,
+    "humidity": 74
+  },
+  {
+    "time_stamp": "2022-12-30T00:00:00.000",
+    "temperature": 54.23,
+    "feels_like": 52.68,
+    "wind_speed": 2.59,
+    "humidity": 71
+  },
+  {
+    "time_stamp": "2022-12-30T03:00:00.000",
+    "temperature": 53.26,
+    "feels_like": 51.71,
+    "wind_speed": 3.38,
+    "humidity": 73
+  },
+  {
+    "time_stamp": "2022-12-30T06:00:00.000",
+    "temperature": 53.73,
+    "feels_like": 52.61,
+    "wind_speed": 4.54,
+    "humidity": 81
+  },
+  {
+    "time_stamp": "2022-12-30T09:00:00.000",
+    "temperature": 53.53,
+    "feels_like": 52.81,
+    "wind_speed": 6.69,
+    "humidity": 90
+  },
+  {
+    "time_stamp": "2022-12-30T12:00:00.000",
+    "temperature": 54.0,
+    "feels_like": 53.65,
+    "wind_speed": 5.61,
+    "humidity": 97
+  },
+  {
+    "time_stamp": "2022-12-30T15:00:00.000",
+    "temperature": 54.84,
+    "feels_like": 54.63,
+    "wind_speed": 5.57,
+    "humidity": 98
+  },
+  {
+    "time_stamp": "2022-12-30T18:00:00.000",
+    "temperature": 56.57,
+    "feels_like": 56.53,
+    "wind_speed": 5.23,
+    "humidity": 98
+  },
+  {
+    "time_stamp": "2022-12-30T21:00:00.000",
+    "temperature": 57.74,
+    "feels_like": 57.78,
+    "wind_speed": 4.29,
+    "humidity": 97
+  },
+  {
+    "time_stamp": "2022-12-31T00:00:00.000",
+    "temperature": 57.4,
+    "feels_like": 57.49,
+    "wind_speed": 4.63,
+    "humidity": 99
+  },
+  {
+    "time_stamp": "2022-12-31T03:00:00.000",
+    "temperature": 57.51,
+    "feels_like": 57.61,
+    "wind_speed": 4.68,
+    "humidity": 99
+  },
+  {
+    "time_stamp": "2022-12-31T06:00:00.000",
+    "temperature": 57.9,
+    "feels_like": 58.05,
+    "wind_speed": 5.77,
+    "humidity": 99
+  },
+  {
+    "time_stamp": "2022-12-31T09:00:00.000",
+    "temperature": 58.03,
+    "feels_like": 58.19,
+    "wind_speed": 7.47,
+    "humidity": 99
+  },
+  {
+    "time_stamp": "2022-12-31T12:00:00.000",
+    "temperature": 58.32,
+    "feels_like": 58.5,
+    "wind_speed": 9.71,
+    "humidity": 99
+  },
+  {
+    "time_stamp": "2022-12-31T15:00:00.000",
+    "temperature": 58.32,
+    "feels_like": 58.46,
+    "wind_speed": 13.0,
+    "humidity": 98
+  },
+  {
+    "time_stamp": "2022-12-31T18:00:00.000",
+    "temperature": 58.41,
+    "feels_like": 58.51,
+    "wind_speed": 16.31,
+    "humidity": 97
+  },
+  {
+    "time_stamp": "2022-12-31T21:00:00.000",
+    "temperature": 57.9,
+    "feels_like": 57.99,
+    "wind_speed": 17.98,
+    "humidity": 98
+  },
+  {
+    "time_stamp": "2023-01-01T00:00:00.000",
+    "temperature": 57.34,
+    "feels_like": 57.34,
+    "wind_speed": 23.64,
+    "humidity": 97
+  },
+  {
+    "time_stamp": "2023-01-01T03:00:00.000",
+    "temperature": 53.85,
+    "feels_like": 53.4,
+    "wind_speed": 11.54,
+    "humidity": 95
+  },
+  {
+    "time_stamp": "2023-01-01T06:00:00.000",
+    "temperature": 51.51,
+    "feels_like": 50.54,
+    "wind_speed": 13.13,
+    "humidity": 89
+  },
+  {
+    "time_stamp": "2023-01-01T09:00:00.000",
+    "temperature": 49.96,
+    "feels_like": 45.18,
+    "wind_speed": 12.71,
+    "humidity": 87
+  },
+  {
+    "time_stamp": "2023-01-01T12:00:00.000",
+    "temperature": 49.87,
+    "feels_like": 45.57,
+    "wind_speed": 10.94,
+    "humidity": 87
+  },
+  {
+    "time_stamp": "2023-01-01T15:00:00.000",
+    "temperature": 50.38,
+    "feels_like": 49.3,
+    "wind_speed": 11.74,
+    "humidity": 89
+  },
+  {
+    "time_stamp": "2023-01-01T18:00:00.000",
+    "temperature": 53.2,
+    "feels_like": 52.12,
+    "wind_speed": 12.75,
+    "humidity": 83
+  },
+  {
+    "time_stamp": "2023-01-01T21:00:00.000",
+    "temperature": 56.79,
+    "feels_like": 55.36,
+    "wind_speed": 12.17,
+    "humidity": 68
+  },
+  {
+    "time_stamp": "2023-01-02T00:00:00.000",
+    "temperature": 53.94,
+    "feels_like": 52.75,
+    "wind_speed": 13.24,
+    "humidity": 79
+  },
+  {
+    "time_stamp": "2023-01-02T03:00:00.000",
+    "temperature": 49.19,
+    "feels_like": 44.8,
+    "wind_speed": 10.71,
+    "humidity": 88
+  },
+  {
+    "time_stamp": "2023-01-02T06:00:00.000",
+    "temperature": 46.63,
+    "feels_like": 44.28,
+    "wind_speed": 4.99,
+    "humidity": 88
+  },
+  {
+    "time_stamp": "2023-01-02T09:00:00.000",
+    "temperature": 45.46,
+    "feels_like": 43.74,
+    "wind_speed": 3.87,
+    "humidity": 87
+  },
+  {
+    "time_stamp": "2023-01-02T12:00:00.000",
+    "temperature": 45.48,
+    "feels_like": 43.92,
+    "wind_speed": 3.69,
+    "humidity": 87
+  },
+  {
+    "time_stamp": "2023-01-02T15:00:00.000",
+    "temperature": 44.26,
+    "feels_like": 42.04,
+    "wind_speed": 4.23,
+    "humidity": 88
+  },
+  {
+    "time_stamp": "2023-01-02T18:00:00.000",
+    "temperature": 50.9,
+    "feels_like": 49.12,
+    "wind_speed": 1.99,
+    "humidity": 73
+  }
+]
